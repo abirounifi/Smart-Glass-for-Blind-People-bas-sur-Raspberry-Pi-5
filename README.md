@@ -42,14 +42,21 @@ The system follows a multi-stage processing pipeline:
 
 ## Results
 
-The prototype was evaluated through object detection and obstacle detection tests. The reported results include:
+The prototype was evaluated through object detection and obstacle detection tests. The reported results are as follows:
 
-- **Object Detection Performance:** Approximately 22 FPS.
-- **Obstacle Detection Precision:** 92% at distances below 1 meter and 88% at 2 meters.
-- **Detection Latency:** Approximately 0.45 seconds below 1 meter and 0.70 seconds at 2 meters.
-- **Fall Notification:** An alert time of approximately 5 seconds was reported during testing.
+Object Detection Performance: Approximately 22 FPS.
 
-These results provide an initial assessment of the prototype's performance. Further testing under different lighting conditions, environments, and real-world mobility scenarios is needed to assess its reliability.
+Obstacle Detection Accuracy: 92% for distances below 1 meter and 88% at 2 meters.
+
+Detection Latency: Approximately 0.45 seconds at distances below 1 meter and 0.70 seconds at 2 meters.
+
+Fall Alert Response Time: Approximately 5 seconds during testing.
+
+These results provide an initial evaluation of the prototype's performance. Further testing under various lighting conditions and environmental scenarios is required to assess its reliability and suitability for real-world use.
+
+The image below illustrates the physical prototype and its main hardware components.
+
+
 
 ## Limitations and Future Work
 
