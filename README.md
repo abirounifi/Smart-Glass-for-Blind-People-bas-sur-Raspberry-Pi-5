@@ -56,7 +56,7 @@ These results provide an initial evaluation of the prototype's performance. Furt
 
 The image below illustrates the physical prototype and its main hardware components.
 
-![Smart Glass for Blind People - Physical Prototype](image/prototype.jpg)
+![Smart Glass for Blind People - Physical Prototype](image/prototype.jpeg)
 
 
 ## Limitations and Future Work
